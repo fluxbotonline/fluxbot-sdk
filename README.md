@@ -1,4 +1,4 @@
-# @fluxbot/sdk (dummy)
+# @fluxbot/sdk
 
 A **pre-launch** FluxBot SDK to help developers integrate with FluxBot-style APIs.
 
